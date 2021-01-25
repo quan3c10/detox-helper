@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/Codeception/detox-helper#readme",
   "dependencies": {
-    "detox": "^12.11.3"
+    "detox": "^18.2.2"
   },
   "devDependencies": {
-    "codeceptjs": "^2.2.1",
-    "documentation": "^11.0.1"
+    "codeceptjs": "^3.0.4",
+    "documentation": "^13.1.1"
   }
 }
